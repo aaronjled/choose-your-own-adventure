@@ -1,3 +1,3 @@
-# git-demo
+# choose-your-own-adventure
 
 Look another brilliant change.
